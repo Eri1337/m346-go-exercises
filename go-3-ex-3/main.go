@@ -7,4 +7,9 @@ const (
 
 func main() {
 	// TODO: Implement FizzBuzz using a for loop from Lower to Upper.
+
+	for i := Lower; i <= Upper; i++ {
+
+	}
+
 }
